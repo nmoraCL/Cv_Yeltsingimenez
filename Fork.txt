@@ -1,1 +1,3 @@
 https://github.com/Yeltsinglatam/Cv_Yeltsingimenez.git
+https://github.com/fanuneza/portafolio-desafio-latam.git
+https://github.com/max-mora/prueba-final-desarrollo-de-portafolio.git
